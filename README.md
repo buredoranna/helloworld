@@ -7,4 +7,5 @@ This is another comment about branching such, but this time I've included a comm
 
 I've just made some changes to clear up this file a bit.
 
-
+####
+This is a test
